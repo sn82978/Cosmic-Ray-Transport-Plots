@@ -1,4 +1,4 @@
-# Constraining Cosmic Ray Transport with Observations of the Circumgalactic Medium
+# Cosmic Ray Transport Plots
 
 This repository contains the Python code I developed to generate a central figure for my **second-author publication**:
 
