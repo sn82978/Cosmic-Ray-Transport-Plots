@@ -67,7 +67,8 @@ Each figure is exportable in both **PNG** and **PDF** for direct use in publicat
 
 If you use this code or adapt methods, please cite:
 
-> *\[Authors including Shreya Nakum]*. “Constraining cosmic ray transport with observations of the circumgalactic medium.” *\[MNRAS, 2023, [DOI](https://doi.org/10.1093/mnras/stad671)]*.
+> Iryna S Butsky, Shreya Nakum, Sam B Ponnada, Cameron B Hummels, Suoqing Ji, Philip F Hopkins, Constraining cosmic ray transport with observations of the circumgalactic medium, Monthly Notices of the Royal Astronomical Society, Volume 521, Issue 2, May 2023, Pages 2477–2483, https://doi.org/10.1093/mnras/stad671
+
 
 ---
 
