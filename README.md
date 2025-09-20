@@ -59,7 +59,7 @@ Each figure is exportable in both **PNG** and **PDF** for direct use in publicat
 
 ## 📂 Repository Structure
 
-* `CorrectOrderNotebook.ipynb` contains the working code
+* `Correct Order Notebook.ipynb` contains the working code
 
 ---
 
