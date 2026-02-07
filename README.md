@@ -72,7 +72,7 @@ If you use this code or adapt methods, please cite:
 
 ---
 
-## 👩🏽‍💻 Author
+## Author
 
 Developed by **Shreya Nakum** (UC Irvine) in collaboration with **Caltech**.
 For questions or collaboration, please reach out via [LinkedIn](https://www.linkedin.com/in/shreyanakum/) or GitHub.
